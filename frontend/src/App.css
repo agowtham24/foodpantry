@@ -1,0 +1,37 @@
+.bodyy {
+  margin-top: 55px;
+  min-height: calc(100vh - 126px);
+}
+.card {
+  box-shadow: 0px 0px 8px 0 rgba(0, 0, 0, 0.2);
+}
+label span {
+  color: red;
+}
+.edit-btn,
+.delete-btn {
+  width: fit-content;
+  padding: 5px 10px !important;
+  box-shadow: 1px 1px 2px 0px #0000009e;
+}
+
+.edit-btn:hover,
+.delete-btn:hover {
+  background: transparent !important;
+  box-shadow: 1px 1px 2px 0px #000;
+  color: black !important;
+}
+
+.delete-btn:hover {
+  color: red !important;
+}
+
+.edit-btn {
+  margin-right: 5px !important;
+}
+
+.edit-btn span,
+.delete-btn span {
+  font-size: 17px;
+  line-height: 25px;
+}

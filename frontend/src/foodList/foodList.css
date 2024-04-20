@@ -1,0 +1,10 @@
+.item {
+  transition: 0.3s;
+}
+.item:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+.icon:hover{
+    color: red;
+}

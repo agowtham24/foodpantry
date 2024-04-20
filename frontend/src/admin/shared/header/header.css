@@ -1,0 +1,9 @@
+.head {
+  height: 80px;
+  border-left: 1px solid rgb(136, 130, 130);
+  padding-right: 5px;
+  background-color: #fff;
+}
+.dd {
+  cursor: pointer;
+}
